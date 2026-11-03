@@ -1,0 +1,5 @@
+3-
+O programa em si não apresenta nenhum problema, ele determina que valores maiores que 10 darão erro e cumpre com o que determinou.
+
+4-
+O script poderia ser corrigido trocando o valor dentro da lista por um número entre os valores de 0 a 10, respeitando o bloco else, ou aumentando o intervalo dentro do script. 
